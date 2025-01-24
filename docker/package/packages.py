@@ -23,7 +23,7 @@ networks = {
     "pariscnet": "https://teztnets.com/pariscnet",
 }
 networks_protos = {
-    "mainnet": ["PsParisC"],
+    "mainnet": ["PsParisC", "PsQuebec"],
     "ghostnet": ["PsParisC"],
     "pariscnet": ["PsParisC"],
     "quebecnet": ["PsQuebec"],
